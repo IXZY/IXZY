@@ -15,7 +15,7 @@
 - 🎨 A passionate Self-taught Front-end Developer  
 - 🔐 Playing CTF's in spare time  
 - 📚 Currently learning Web Development independently  
-- 📸 Instagram: [recty.exploit](https://www.instagram.com/faiz1zzfebrianto)  
+- 📸 Instagram: [IXZY](https://www.instagram.com/faiz1zzfebrianto)  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated banner" width="100%" />
